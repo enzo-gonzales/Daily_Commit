@@ -1,4 +1,4 @@
-6 de diciembre: 1
+6 de diciembre: 12
 4 de diciembre: 12345
 3 de diciembre: 12345
 2 de diciembre: 12345
