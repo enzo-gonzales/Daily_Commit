@@ -1,4 +1,4 @@
-15 de enero: 12345
+15 de enero: 12
 15 de enero: 12345
 15 de enero: 12345
 14 de enero: 12345
