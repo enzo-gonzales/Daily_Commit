@@ -1,4 +1,4 @@
-26 DE ABRIL: 1
+26 de abril: 1
 25 de abril: 12345
 24 de abril: 12345
 23 de abril: 12345
