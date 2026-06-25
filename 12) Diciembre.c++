@@ -1,4 +1,4 @@
-24 de jul
+24 de julio:
 23 de julio: 12345
 22 de junio: 12345
 21 de junio: 12345
