@@ -1,4 +1,4 @@
-26 de 
+26 de juni
 25 de 
 24 de julio: 12345
 23 de julio: 12345
