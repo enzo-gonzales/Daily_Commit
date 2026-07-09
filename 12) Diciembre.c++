@@ -1,4 +1,4 @@
-08 d
+08 de
 07 de julio: 12345
 06 de julio: 12345
 05 de julio: 12345
