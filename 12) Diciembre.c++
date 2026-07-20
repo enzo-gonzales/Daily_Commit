@@ -1,2 +1,2 @@
-19 de 
+19 de julio
 18 de julio: 12345
