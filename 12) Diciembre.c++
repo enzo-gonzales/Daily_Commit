@@ -1,3 +1,3 @@
-20 de 
+20 de juk
 19 de julio: 12345
 18 de julio: 12345
