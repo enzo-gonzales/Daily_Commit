@@ -1,4 +1,4 @@
-10 de 
+10 de jul 
 06 de julio: 12345
 05 de julio: 12345
 04 de julio: 12345
