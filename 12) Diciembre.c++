@@ -1,6 +1,6 @@
-24 DE julio
+24 DE julio: 
 23 de julio: 12345
-22 de julio: 1234
+22 de julio: 12345
 21 de julio: 12345
 20 de julio: 12345
 19 de julio: 12345
