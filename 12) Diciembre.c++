@@ -1,5 +1,4 @@
-30 de julio: 12345
-29 de julio: 12345
+30 
 24 de julio: 12345
 23 de julio: 12345
 26 de julio: 12345
