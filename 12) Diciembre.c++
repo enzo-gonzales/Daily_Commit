@@ -1,9 +1,4 @@
-18 de julio: 12345
-17 de julio: 12345
-15 de julio: 12345
-24 de julio: 12345
-23 de julio: 12345
-22 de julio: 12345
+12 de 
 21 de julio: 12345
 20 de julio: 12345
 19 de julio: 12345
