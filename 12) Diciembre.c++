@@ -1,5 +1,5 @@
-07 
-6 de julio: 12345
+07 de julio: 
+06 de julio: 12345
 15 de julio: 12345
 14 de julio: 12345
 13 de julio: 12345
